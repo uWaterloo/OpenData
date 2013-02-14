@@ -52,7 +52,7 @@ Currently, the API requests are restriced to **5000** calls per month for a give
 ### Data
 
 The intent of data offered through this API is limited to publicly visible data only.
-Private data such as student specific information is out of the API's scope,
+Private data such as student specific information is out of the API's scope.
 
 ## Licensing
 
