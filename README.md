@@ -1,11 +1,15 @@
-
 ![YouWaterlooBanner] (http://api.uwaterloo.ca/static/banner.png)
 
 
 The University of Waterloo Public Data API allows anyone to build applications using data from the University of Waterloo websites.
 The API currently features more than 25 methods of accessing various datasets accross the University of Waterloo network.
 
-**Note:** *This repository only servers as a [tracker](#contributing)*
+
+## About this Repository
+
+**Note:** *This repository only servers as a [tracker](#contributing)*.
+
+Please refer to the [contributing](#contributing) section for more information.
 
 ## Accessing the API
 
