@@ -24,7 +24,7 @@ In order to make an API call, you must have a valid [API Key](http://api.uwaterl
 
 ## Documentation
 
-API docs can be viewed by clicking on a dataset from the left sidebar on http://api.youwaterloo.ca/
+API docs can be viewed by clicking on a dataset from the left sidebar on http://api.uwaterloo.ca/
 
 
 ## Contributing
