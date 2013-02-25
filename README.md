@@ -45,8 +45,8 @@ simply create a new issue from the **issues** tab and assign it an appropriate l
 
 ### Usage
 
-Currently, the API requests are restriced to **5000** calls per month for a given key.
-(This number may increase in the future)
+Currently, the API requests are restricted to **5000** calls per month for a given key. This number may increase in the future.
+
 *If your implementation of the API requires additional requests, feel free to contact us regarding the removal of your limit.*
 
 ### Data
