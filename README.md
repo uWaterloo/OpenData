@@ -26,9 +26,9 @@ In order to make an API call, you must have a valid [API Key](http://api.uwaterl
 
 API docs can be viewed by clicking on a dataset from the left sidebar on http://api.uwaterloo.ca/
 
-## Client Libraries
+**Client Libraries**
 
-- [Python](https://bitbucket.org/amjoconn/uwaterlooapi)
+- [Python](https://bitbucket.org/amjoconn/uwaterlooapi) by @amjoconn
 
 
 ## Contributing
