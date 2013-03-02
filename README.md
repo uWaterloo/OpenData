@@ -60,8 +60,8 @@ Private data such as student specific information is out of the API's scope.
 
 ## Licensing
 
-The data from the API is offered under the <a href="https://uwaterloo.ca/open-data/university-waterloo-open-data-license-agreement-v1">
-Open Data License Agreement v1.0</a> for the Univeristy of Waterloo.
+The data from the API is offered under the [Open Data License Agreement v1.0](https://uwaterloo.ca/open-data/university-waterloo-open-data-license-agreement-v1)
+for the Univeristy of Waterloo.
 
 ## Contact ##
 
@@ -69,7 +69,7 @@ If you have any inquiries or suggestions, please feel free to contact us at:
 
 ![email](http://api.uwaterloo.ca/static/e.png)
 
-Please consider subscribing to our <a href="https://lists.uwaterloo.ca/mailman/listinfo/opendata">mailing list</a>
+Please consider subscribing to our [mailing list](https://lists.uwaterloo.ca/mailman/listinfo/opendata)
 in order to recieve updates on the API and follow discussions
 
 
