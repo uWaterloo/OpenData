@@ -26,7 +26,7 @@ In order to make an API call, you must have a valid [API Key](http://api.uwaterl
 
 API docs can be viewed by clicking on a dataset from the left sidebar on [http://api.uwaterloo.ca/](http://api.uwaterloo.ca/).
 
-**Client Libraries**
+### Client Libraries
 
 - [Python](https://bitbucket.org/amjoconn/uwaterlooapi) by @amjoconn
 
@@ -36,7 +36,7 @@ API docs can be viewed by clicking on a dataset from the left sidebar on [http:/
 This repository will serve as a progress and request tracker for the API.
 If you would like to offer your suggestions or report any misfindings, simply create a new issue from the **issues** tab and assign it an appropriate label.
 
-**Categories**
+### Categories
 
 - [Bug](https://github.com/uWaterloo/OpenData/issues?labels=bug&page=1&state=open)
 - [Enhancement](https://github.com/uWaterloo/OpenData/issues?labels=enhancement&page=1&state=open)
