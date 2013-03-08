@@ -19,12 +19,12 @@ All calls are made to the following URL with the required parameters for a given
 ```url
 http://api.uwaterloo.ca/public/v1/
 ```
-In order to make an API call, you must have a valid [API Key](http://api.uwaterloo.ca/#!/keygen)
+In order to make an API call, you must have a valid [API Key](http://api.uwaterloo.ca/#!/keygen).
 
 
 ## Documentation
 
-API docs can be viewed by clicking on a dataset from the left sidebar on http://api.uwaterloo.ca/
+API docs can be viewed by clicking on a dataset from the left sidebar on [http://api.uwaterloo.ca/](http://api.uwaterloo.ca/).
 
 **Client Libraries**
 
@@ -34,8 +34,7 @@ API docs can be viewed by clicking on a dataset from the left sidebar on http://
 ## Contributing
 
 This repository will serve as a progress and request tracker for the API.
-If you would like to offer your suggestions or report any misfindings, 
-simply create a new issue from the **issues** tab and assign it an appropriate label.
+If you would like to offer your suggestions or report any misfindings, simply create a new issue from the **issues** tab and assign it an appropriate label.
 
 **Categories**
 
@@ -68,7 +67,4 @@ If you have any inquiries or suggestions, please feel free to contact us at:
 
 ![email](http://api.uwaterloo.ca/static/e.png)
 
-Please consider subscribing to our [mailing list](https://lists.uwaterloo.ca/mailman/listinfo/opendata)
-in order to recieve updates on the API and follow discussions
-
-
+Please consider subscribing to our [mailing list](https://lists.uwaterloo.ca/mailman/listinfo/opendata) in order to recieve updates on the API and follow discussions.
