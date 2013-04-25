@@ -63,8 +63,6 @@ The data from the API is offered under the [Open Data License Agreement v1.0](ht
 
 ## Contact ##
 
-If you have any inquiries or suggestions, please feel free to contact us at:
-
-[opendata.api@uwaterloo.ca](mailto:opendata.api@uwaterloo.ca)
+If you have any inquiries or suggestions, please feel free to contact us at [opendata.api@uwaterloo.ca](mailto:opendata.api@uwaterloo.ca).
 
 Please consider subscribing to our [mailing list](https://lists.uwaterloo.ca/mailman/listinfo/opendata) in order to receive updates on the API and follow discussions.
