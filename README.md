@@ -29,6 +29,7 @@ API docs can be viewed by clicking on a dataset from the left sidebar on [http:/
 ### Client Libraries
 
 - [Python](https://bitbucket.org/amjoconn/uwaterlooapi) by @amjoconn
+- [Ruby Gem](https://rubygems.org/gems/uwapi) by @billxinli
 
 
 ## Contributing
