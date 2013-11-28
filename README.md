@@ -22,19 +22,19 @@ All calls are made to the following URL with the required parameters for a given
 
 
 ```url
-http://api.uwaterloo.ca/public/v1/
+https://api.uwaterloo.ca/v2/
 ```
 In order to make an API call, you must have a valid [API Key](http://api.uwaterloo.ca/#!/keygen).
 
 
 ## Documentation
 
-API docs can be viewed by clicking on a dataset from the left sidebar on [http://api.uwaterloo.ca/](http://api.uwaterloo.ca/).
+API docs can be viewed by clicking on a dataset from the left sidebar on [https://github.com/uwaterloo/api-documentation](https://github.com/uWaterloo/api-documentation).
 
 ### Client Libraries
 
-- [Python](https://bitbucket.org/amjoconn/uwaterlooapi) by @amjoconn
-- [Ruby Gem](https://rubygems.org/gems/uwapi) by @billxinli
+- [Python](https://bitbucket.org/amjoconn/uwaterlooapi) by @amjoconn (v1)
+- [Ruby Gem](https://rubygems.org/gems/uwapi) by @billxinli (v1)
 
 
 ## Contributing
