@@ -1,4 +1,4 @@
-![YouWaterlooBanner] (http://api.uwaterloo.ca/static/banner.png)
+![YouWaterlooBanner](http://api.uwaterloo.ca/static/banner.png)
 
 
 The University of Waterloo Public Data API allows anyone to build applications using data from the University of Waterloo websites.
