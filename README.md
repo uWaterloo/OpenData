@@ -10,7 +10,7 @@ That said, we think it's safe to say that for the immediate future we will treat
 
 The main take away is there will likely be change, but for now everything you're used to will continue to work as is and we'll communicate a clear time line of any changes when it's available. 
 
-Thank you and feel free to reach out to us (IIM Team in IST) at sbobkin@uwaterloo.ca @tenkay or joanne.mcclintock@uwaterloo.ca :)
+Thank you and feel free to reach out to us (IIM Team in IST) at sbobkin@uwaterloo.ca [@tenkay](https://www.twitter.com/tenkay)  :)
 
 ## About
 
