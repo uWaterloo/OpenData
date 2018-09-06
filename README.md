@@ -1,14 +1,10 @@
 ![YouWaterlooBanner](http://api.uwaterloo.ca/static/banner.png)
 
-## Hello and Heads up! (September 18th, 2017)
+## Hello and Heads up! (Updated September 2018)
 
 Hello! 
 
-I wanted to let you know that effective immediately the Open Data API project at Waterloo is under a new team. We're looking forward to understanding what exists now, getting feedback from current users, and having a clear plan to communicate before moving forward. We’d like to continue to build on the great work done by those before us that made this project possible. 
-
-That said, we think it's safe to say that for the immediate future we will treat this version as a production system and fix only critical issues without introducing new features. Part of the motivation for this is to understand the users and our goals, and at the same time consider switching the code base to a stack we already develop on (C# on .NET Core). 
-
-The main take away is there will likely be change, but for now everything you're used to will continue to work as is and we'll communicate a clear time line of any changes when it's available. 
+We've started to introduce elements of vNext, please see and follow the blog posts [here](https://wiki.uwaterloo.ca/pages/viewrecentblogposts.action?key=UWAPI)
 
 Thank you and feel free to reach out to us (IIM Team in IST) at sbobkin@uwaterloo.ca [@tenkay](https://www.twitter.com/tenkay)  :)
 
