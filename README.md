@@ -1,23 +1,23 @@
 ![YouWaterlooBanner](http://api.uwaterloo.ca/static/banner.png)
 
-## Hello and Heads up! (Updated September 2018)
+## Hello and Heads up! 
 
-Hello! 
+All news and announcements related to Open Data and related APIs will be posted to our [news and announcements](https://wiki.uwaterloo.ca/pages/viewrecentblogposts.action?key=UWAPI) blog.
 
-We've started to introduce elements of vNext, please see and follow the blog posts [here](https://wiki.uwaterloo.ca/pages/viewrecentblogposts.action?key=UWAPI)
+We'll be deprecating usage of version 2 API (/v2/) by the end of 2020. Please visit the news and announcements blog for more information and context. 
 
-Thank you and feel free to reach out to us (IIM Team in IST) at sbobkin@uwaterloo.ca [@tenkay](https://www.twitter.com/tenkay)  :)
+Thank you, and please file an issue here, or use the IST-Opendata queue in [RT](https://rt.uwaterloo.ca) to contact us. 
 
 ## About
 
-The University of Waterloo Public Data API allows anyone to build applications using data from the University of Waterloo websites.
-The API currently features more than 25 methods of accessing various datasets accross the University of Waterloo network.
+The University of Waterloo Public Data API allows anyone to build applications using data from curated University of Waterloo datasets.
 
 ## License
-- <a href="https://uwaterloo.ca/open-data/university-waterloo-open-data-license-agreement-v1">University of Waterloo Open Data Licensing (ODL) Agreement v1</a>
+- We're reviewing our options for licensing version 3 of the API. At present, it is covered by existing University policy, including, but not exclusively [Policy 46 - Information Management](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policies/policy-46-information-management).
+- <a href="https://uwaterloo.ca/open-data/university-waterloo-open-data-license-agreement-v1">University of Waterloo Open Data Licensing (ODL) Agreement v1</a> applies strictly to version 2 of the API.
 
 ## Disclaimer
-- Review the 'No Warranty' section of the University of Waterloo ODL before using this data. If building services upon this data, please inform your users of the inherent risks (as a best practice).
+- Review the 'No Warranty' section of the University of Waterloo ODL before using this data. If building services upon this data, please inform your users of the inherent risks (as a best practice). It is the goal that version 3 datasets will not require this disclaimer, and the data can be treated as reviewed and authoritative where possible.
 
 ## About this Repository
 
@@ -25,22 +25,13 @@ The API currently features more than 25 methods of accessing various datasets ac
 
 Please refer to the [contributing](#contributing) section for more information.
 
-## Accessing the API
-
-All calls are made to the following URL with the required parameters for a given service.
-
-
-```url
-https://api.uwaterloo.ca/v2/
-```
-In order to make an API call, you must have a valid [API Key](http://api.uwaterloo.ca/#!/keygen).
-
-
 ## Documentation
 
-API docs can be viewed by clicking on a dataset from the left sidebar on [https://github.com/uwaterloo/api-documentation](https://github.com/uWaterloo/api-documentation).
+For current version 3, please see [getting started](https://wiki.uwaterloo.ca/display/UWAPI/Getting+Started+-+OpenAPI) documentation and the [live endpoint](https://openapi.data.uwaterloo.ca/api-docs/index.html) documentation.
 
-### Client Libraries
+For legacy version 2, API docs can be viewed by clicking on a dataset from the left sidebar on [https://github.com/uwaterloo/api-documentation](https://github.com/uWaterloo/api-documentation).
+
+### Client Libraries (legacy version 2)
 
 - [Python](https://bitbucket.org/amjoconn/uwaterlooapi) by @amjoconn (v1)
 - [Ruby Gem](https://rubygems.org/gems/uwapi) by @billxinli (v1)
@@ -59,7 +50,7 @@ If you would like to offer your suggestions or report any misfindings, simply cr
 - [Data Request](https://github.com/uWaterloo/OpenData/issues?labels=data+request&page=1&state=open)
 
 
-## Restrictions
+## Restrictions (v2 legacy)
 
 ### Usage
 
@@ -75,6 +66,4 @@ Private data such as student specific information is out of the API's scope.
 
 ## Contact ##
 
-If you have any inquiries or suggestions, please feel free to contact us at [opendata.api@uwaterloo.ca](mailto:opendata.api@uwaterloo.ca).
-
-Please consider subscribing to our [mailing list](https://lists.uwaterloo.ca/mailman/listinfo/opendata) in order to receive updates on the API and follow discussions.
+If you have any inquiries or suggestions, please feel free to contact us by filing an issue here, or use the IST-Opendata queue in [RT](https://rt.uwaterloo.ca).
