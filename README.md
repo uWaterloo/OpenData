@@ -1,10 +1,14 @@
 ![YouWaterlooBanner](http://api.uwaterloo.ca/static/banner.png)
 
-## Hello and Heads up! 
+
+
+## :exclamation: IMPORTANT :exclamation: api.uwaterloo.ca/v2/ endpoints trial and complete shutdown dates. 
+
+There will be a temporary shutdown on January 25th, 2021, and a complete shutdown by February 26th, 2021. Please see the [announcement blog post](https://wiki.uwaterloo.ca/display/UWAPI/2021/01/08/Open+Data+v2+API+Temporary+and+Complete+shutdown+dates) for more details. 
+
+## Hello and welcome
 
 All news and announcements related to Open Data and related APIs will be posted to our [news and announcements](https://wiki.uwaterloo.ca/pages/viewrecentblogposts.action?key=UWAPI) blog.
-
-We'll be deprecating usage of version 2 API (/v2/) by the end of 2020. Please visit the news and announcements blog for more information and context. 
 
 Thank you, and please file an issue here, or use the IST-Opendata queue in [RT](https://rt.uwaterloo.ca) to contact us. 
 
