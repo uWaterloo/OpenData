@@ -1,6 +1,6 @@
 ## Hello and welcome
 
-All news and announcements related to Open Data and related APIs will be posted to our [news and announcements]([https://wiki.uwaterloo.ca/pages/viewrecentblogposts.action?key=UWAPI](https://uwaterloo.atlassian.net/wiki/spaces/UWAPI/blog/) blog.
+All news and announcements related to Open Data and related APIs will be posted to our [news and announcements](https://uwaterloo.atlassian.net/wiki/spaces/UWAPI/blog) blog.
 
 Thank you, if you need to contact us please file an issue here. 
 
@@ -22,7 +22,7 @@ Please refer to the [contributing](#contributing) section for more information.
 
 ## Documentation
 
-For current version 3, please see [getting started]([https://wiki.uwaterloo.ca/display/UWAPI/Getting+Started+-+OpenAPI](https://uwaterloo.atlassian.net/wiki/spaces/UWAPI/pages/34025641600/Getting+Started+-+OpenAPI) documentation and the [live endpoint](https://openapi.data.uwaterloo.ca/api-docs/index.html) documentation.
+For current version 3, please see [getting started](https://uwaterloo.atlassian.net/wiki/spaces/UWAPI/pages/34025641600/Getting+Started+-+OpenAPI) documentation and the [live endpoint](https://openapi.data.uwaterloo.ca/api-docs/index.html) documentation.
 
 ## Contributing
 
